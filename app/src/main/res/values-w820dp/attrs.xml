@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <attr name="touchable" format="boolean" />
     <!-- UnTouchable property -->
     <declare-styleable name="UntouchableFrameLayout">
-        <attr name="touchable" format="boolean" />
+        <attr name="touchable"></attr>
+    </declare-styleable>
+
+    <!-- UnTouchable property -->
+    <declare-styleable name="UntouchableRelativeLayout">
+        <attr name="touchable"></attr>
+    </declare-styleable>
+
+    <!-- UnTouchable property -->
+    <declare-styleable name="UntouchableLinearLayout">
+        <attr name="touchable"></attr>
     </declare-styleable>
 </resources>
