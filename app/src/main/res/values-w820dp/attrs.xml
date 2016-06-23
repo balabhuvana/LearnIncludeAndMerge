@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UnTouchable property -->
+    <declare-styleable name="UntouchableFrameLayout">
+        <attr name="touchable" format="boolean" />
+    </declare-styleable>
+</resources>
